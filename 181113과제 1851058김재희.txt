@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<!-- saved from url=(0090)file:///C:/Users/ironc/Desktop/181016+html%EA%B3%BC%EC%A0%9C/181111%EA%B3%BC%EC%A0%9C.html -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+	 <style>
+	 *{
+	 	padding:0;
+	 	margin:0;
+	 }
+	h1{
+		color:#444444;
+		padding:30px 0px 12px 0px;
+	}
+	h2{
+		padding:10px;
+		border-left:solid 10px hotpink;
+		border-right:solid 10px hotpink;
+		margin:0px 30% 0px 30%;
+		color:pink;
+	}
+	h4{
+		margin:30px;
+		color:#444444;
+	}
+	h5{
+		color:#aaaaaa;
+		padding:10px;
+	}
+
+	ul{
+		color:#cccccc;
+		list-style-type:none;
+		color:hotpink;
+  		display: table;
+  		margin:15px;
+  		margin-left: auto;
+  		margin-right: auto;
+	}
+	#background{
+		margin-top:30px;
+		background-repeat:repeat-y;
+	}
+	.text1{
+		color:#777777;
+	}
+	table, th{
+		width:1500px; height:auto;
+		margin: 10px 200px 10px 200px;
+		text-align:center;
+	}
+	.table1{
+		border:solid 1px hotpink;
+		color:grey;
+		padding:20px;
+	}
+	.menu{
+		width:150px;
+		height:70px;
+		text-align:center;
+		list-style-type:none;
+		color:hotpink;
+		display:inline;
+	}
+	#menu{
+		padding:8px 8px 8px 8px;
+		margin-bottom:30px;
+		background-color:#333333;
+	}
+	</style>
+	<title>My FAVORITE ANIME</title>
+
+<title>제목</title>
+</head>
+<body id="background" background="./181113과제_files/mystery.png">
+ 	
+ 	 <div style="text-align:center">
+ 	 <ul id="menu">
+ 	 	<li class="menu"> 제작자 소개 |</li>
+ 	 	<li class="menu"> 등장인물 소개 |</li>
+ 	 	<li class="menu"> 스토리 |</li>
+ 	 	<li class="menu"> 컨셉아트 |</li>
+ 	 	<li class="menu"> 보러가기 </li>
+ 	 </ul>
+ 	 <img src="./181113과제_files/mysteryskulls logo.png" width="500 px" alt="Italian Trulli">
+	 <h1>MYSTERY SKULLS ANIMATED</h1>
+     <h2>::미스터리 스컬즈::</h2>
+     <h4>간단한 노래 소개</h4>
+     <h5>삽입곡 - 미스터리 스컬즈 Hellbent</h5>
+
+	 <audio src="HELLBENT.mp3" autoplay="" controls="" loop="">
+		오디오 플레이어가 안됩니다. 요즘시대 크롬도 안쓰다니...
+	 </audio>
+
+     <ul>
+      <li>1st. <span class="text1">GHOST</span></li>
+      <li>2st. <span class="text1">FREAKING OUT</span></li>
+      <li>3st. <span class="text1">HELLBENT</span></li>
+  	 </ul>
+       <br>
+       <img src="./181113과제_files/2.png" width="700">
+       <br><br><br><br>
+ 	 <table>
+ 	 	<tbody><tr>
+ 	 		<th rowspan="2" class="table1"><img src="./181113과제_files/3.png" width="90%"></th>
+	  		<th class="table1">미스터리 스컬즈는 유튜브에서 활동하는 애니메이터 MysteryBen27과 팀이 제작하고 있다. 그들의 동료 5명이서 함께 제작한 웹 애니메이션으로 그의 유튜브 채널에서 확인 가능하다.<br><br>
+
+			Mystery Skulls Animated (통칭 MSA)는 뮤지션 뤼스 더벅의 1인 프로젝트 Mystery Skulls의 노래를 사용하여 만든 웹 애니메이션 시리즈이다. 메인 캐릭터는 Lewis(루이스), Arthur(아서), Vivi(비비), Mystery(미스테리), Shiromori(시로모리), ?(정체불명)으로 총 6명이 있다.<br><br>
+
+			애니메이션 뮤직 비디오는 이전에도 많았지만, 특기할 만한 점은 이 시리즈와 캐릭터들은 비공식적 2차 창작이라는 점이다. 고릴라즈나 Studio Killers처럼 가상의 캐릭터들을 내세운 가공의 밴드가 아니라, 이미 있는 뮤지션의 곡과 가사를 바탕으로 스토리와 세계관을 짜서 창작한 애니메이션이다.<br><br>
+
+			많은 곳에서 모티브를 얻어 왔는데 스쿠비 두 시리즈에서 많은 영향을 받은 것 같다.<br><br>
+
+			스토리의 흐름은 크게 두 갈래로 나뉘어진다. 루이스와 아서와의 갈등, 비비, 미스테리와 시로모리의 갈등으로 두 갈래로 나뉘어진다. 이 외에도 많은 사건이 있으니 관심이 있으면 직접 관람하는 것을 추천한다.<br><br></th>
+	  	</tr>
+	  	<tr>
+	  		<th class="table1">시리즈 일람<br><br><br><br>
+	  			GHOST _ 2014.10.26<br><br>
+	  			FREAKING OUT _ 2016.04.15<br><br>
+				HELLBENT_2018.10.13<br><br>
+				2년 주기로 하나의 작품이 나오고 있으며, 총 5개를 한 시리즈로 제작하겠다고 하였으므로 2개의 작품이 더 나올 예정. 애니메이션은 애초에 제작 기간이 긴데 작업자들은 본업이 있기 때문에 제작하는 시간이 오래 걸릴 수 밖에 없다. 꾸준히 인내를 갖고 기다리면 작품이 나와 있을 것이다.<br><br> 제작자 Mysteryben27의 텀블러를 보면 그들이 작업했던 파일과 내용을 공유하기도 하므로 애니메이션 제작에 관심이 있다면 한 번쯤 둘러보는 것도 괜찮을 것이다.
+	  		</th>
+	  	</tr>
+ 	 </tbody></table>
+
+</div></body></html>
